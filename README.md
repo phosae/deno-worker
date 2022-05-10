@@ -1,4 +1,4 @@
 # deno-worker
 Deno Deploy worker for Github integration testing
 
-visit: phosae.deno.dev
+visit: [phosae.deno.dev](phosae.deno.dev)
